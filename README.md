@@ -38,7 +38,7 @@ It allows users to manage meals locally with a focus on smooth user experience a
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/sandwichy_app.git
+git clone https://github.com/iahmedmostafa/sandwichy_app.git
 cd sandwichy_app
 
 # 2. Install dependencies
